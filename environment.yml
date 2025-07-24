@@ -1,0 +1,14 @@
+name: climate4r-env
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-devtools
+  - r-irkernel
+  - r-remotes
+  - r-tidyverse 
+  - jupyter
+  - git
+  - openjdk 
+  - r-rjava
+  - r-rcurl

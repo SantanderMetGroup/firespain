@@ -1,4 +1,4 @@
-# FIRESPAIN025
+# FIRESPAIN-025[^1]
 
 Burned Area is recognized as an Essential Climate Variable by the Global Climate Observing System (GCOS), highlighting its importance in understanding and monitoring climate change impacts. FIRESPAIN-025 is a gridded daily database of burned area (BA) created on the basis of the General Forest Fire Statistics [Estadística General de Incendios Forestales, EGIF](https://www.miteco.gob.es/es/biodiversidad/temas/incendios-forestales/estadisticas-datos.html), a publicly available database that collects information on all forest fires occurring in Spain as obtained from the standardized Forest Fire Reports submitted by the Autonomous Communities every year to the Ministry for the Ecological Transition and Demographic Challenge. 
 
@@ -18,8 +18,13 @@ To help users get started with the FIRESPAIN-025 dataset, we have created an int
 **Launch R Notebook in Binder**  
 [![Launch R Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/8bdbe5e27ead7efbf720767277b841a2544f2279?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_R.ipynb)
 
+***
+
+### [More info](https://docs.google.com/presentation/d/15lxvJqw8ZGz6ynA4O0uPQ6nMwjmYIHoL9Z7bowVFfio/edit?usp=sharing) presented at AEC Intl. Congress (El Escorial, Spain, Jan. 2025)
+
+<img width="661" height="974" alt="image" src="https://github.com/user-attachments/assets/30c65b5a-8917-414f-853d-3a3990dc6d08" />
 
 
 
 ***
-This research work was funded by the Ministry for the Ecological Transition and the Demographic Challenge (MITECO) and the European Commission NextGenerationEU (Regulation EU 2020/2094), through CSIC’s Interdisciplinary Thematic Platform Clima (PTI-Clima). J.B. acknowledges support from Project PROTECT (PID2023-149997OA-I00), funded by MICIU/AEI/10.13039/501100011033 UE / EDRF
+[^1]: This research work was funded by the Ministry for the Ecological Transition and the Demographic Challenge (MITECO) and the European Commission NextGenerationEU (Regulation EU 2020/2094), through CSIC’s Interdisciplinary Thematic Platform Clima (PTI-Clima). J.B. acknowledges support from Project PROTECT (PID2023-149997OA-I00), funded by MICIU/AEI/10.13039/501100011033 UE / EDRF

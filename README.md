@@ -8,6 +8,7 @@ To address these needs and facilitate broader use of the data, we have developed
 
 This repo contains code and auxiliary materials for FIRESPAIN development. Interested data users are referred to the [latest version available in Zenodo](https://doi.org/10.5281/zenodo.14644902)
 
+***
 
 ### Example Interactive Notebook
 To help users get started with the FIRESPAIN-025 dataset, we have created an interactive Jupyter notebook that demonstrates how to load and analyze the data. You can launch it directly in your browser using Binder:
